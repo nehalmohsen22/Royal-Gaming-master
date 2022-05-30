@@ -1,0 +1,69 @@
+header {
+  background-image: url("../images/page-top-bg/20.jpg");
+  background-position: bottom;
+}
+
+.snake-game {
+  background-color: #eef2f6;
+  padding: 80px 0 100px;
+}
+
+.snake-game .newGame {
+  width: 609px;
+  margin: auto;
+}
+
+.snake-game .newGame i {
+  position: relative;
+  font-size: 25px;
+  color: #fff;
+  top: 85px;
+  z-index: 2;
+  left: 550px;
+  cursor: pointer;
+}
+
+.snake-game canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 30px auto 0;
+  display: block;
+  width: 608px;
+  height: 608px;
+}
+.snake-game table {
+  max-width: 608px;
+  margin: 50px auto 0;
+}
+
+.snake-game table button:first-of-type {
+  margin-right: 20px;
+}
+
+.snake-game .newName {
+  max-width: 608px;
+  margin: 30px auto 0;
+  text-align: center;
+  display: none;
+}
+
+.snake-game .newName input {
+  border: 1px solid #ccc;
+  padding: 3px 10px;
+  margin-right: 15px;
+  border-radius: 3px;
+  width: 300px;
+}
+
+.snake-game .newName input:focus {
+  outline: 0;
+}
+
+.snake-game .newName input::placeholder {
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+.snake-game .newName input:focus::placeholder {
+  color: #fff;
+}
