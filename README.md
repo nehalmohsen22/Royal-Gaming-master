@@ -72,7 +72,7 @@ Here is the demo link of this [project](https://salahineo.github.io/Royal-Gaming
 #### Nehal Mohsen
 
 - [Facebook](https://www.facebook.com/profile.php?id=100038504168832) 😎
-- [LinkedIn](https://www.linkedin.com/in/nehal-m-27a011198/) 💼
+- [LinkedIn](https://www.linkedin.com/in/nehal-mohsen/) 💼
 - [Instagram](https://www.instagram.com/m_nehal22/) :framed_picture:
 - [Github](https://github.com/nehalmohsen22):octocat:
 
